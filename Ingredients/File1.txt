@@ -1,2 +1,4 @@
 abcd
 we are in file 1
+
+we are now adding some
